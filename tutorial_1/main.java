@@ -2,7 +2,7 @@ public class main {
     public static void mainjava(String[] arges) {
         // coding starts here;
 
-        Student s1 = new Student("tariq", 20, 3.8);
+        Student s1 = new Student("Abdalrahim", 20, 3.8);
 
         s1.displayInfo();
         s1.study();
