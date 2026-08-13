@@ -1,20 +1,21 @@
+
+
 public class Main {
 
     public static void main(String[] args) {
 
-        WashingMachine wm = new WashingMachine("LG");
-        Refrigerator rf = new Refrigerator("Panasonic");
-
-        wm.displayBrand();
-        wm.turnOn();
-        wm.operate();
-        wm.turnOff();
+        Appliance wash = new WashingMachine("LG");
+        wash.displayBrand();
+        wash.turnOn();
+        wash.operate();
+        wash.turnOff();
 
         System.out.println();
 
-        rf.displayBrand();
-        rf.turnOn();
-        rf.operate();
-        rf.turnOff();
+        Appliance micro = new Microwave("Panasonic");
+        micro.displayBrand();
+        micro.turnOn();
+        micro.operate();
+        micro.turnOff();
     }
-}`
+}

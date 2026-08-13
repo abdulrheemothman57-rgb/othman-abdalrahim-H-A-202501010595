@@ -1,4 +1,5 @@
 abstract class Appliance {
+
     protected String brand;
 
     public Appliance(String brand) {
@@ -18,28 +19,4 @@ abstract class Appliance {
     }
 
     public abstract void operate();
-}
-
-class WashingMachine extends Appliance {
-
-    public WashingMachine(String brand) {
-        super(brand);
-    }
-
-    @Override
-    public void operate() {
-        System.out.println("Washing clothes...");
-    }
-}
-
-class Refrigerator extends Appliance {
-
-    public Refrigerator(String brand) {
-        super(brand);
-    }
-
-    @Override
-    public void operate() {
-        System.out.println("Store food & beverages...");
-    }
 }

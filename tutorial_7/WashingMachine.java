@@ -1,11 +1,11 @@
-abstract class Appliance {
-    // ...
-}
+public class WashingMachine extends Appliance {
 
-class WashingMachine extends Appliance {
-    // ...
-}
+    public WashingMachine(String brand) {
+        super(brand);
+    }
 
-class Refrigerator extends Appliance {
-    // ...
+    @Override
+    public void operate() {
+        System.out.println("Washing clothes...");
+    }
 }
