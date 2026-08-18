@@ -1,3 +1,5 @@
+package tutorial_1;
+
 // Attributes
 class Student {
     String name;
