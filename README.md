@@ -1,28 +1,24 @@
-BIT1123 Object-Oriented Programming – Assignment 1
+📌 Assignment Information
+Field	Details
+Student Name	Othman Abdalrahim H A
+Student ID	202501010595
+Course	BIT1123 / BISE2093 / DIT1113 – Object-Oriented Programming
+Faculty	Faculty of Information Technology
+University	City University Malaysia, Cyberjaya Campus
+Assignment	Assignment 1 – Individual
 
-Assignment Information
-
-Student Name: Othman Abdalrahim H A
-Student ID: 202501010595
-Course: BIT1123 – Object-Oriented Programming
-      City University Malaysia
-Assignment: Assignment 1 – Individual
-
-
-⸻
-
-1. Course Description
-
-This repository contains the Java programming work completed throughout the Object-Oriented Programming course. The tutorials cover fundamental Java programming concepts and gradually introduce Object-Oriented Programming principles, programming techniques, and practical problem-solving skills.
-
-The purpose of this repository is to organize and document the source code and supporting files developed during Tutorials/Weeks 1–10. It also demonstrates the progression of my programming skills and understanding of Java throughout the semester.
 
 ⸻
 
-2. Repository Structure
+📖 Course Description
 
-The repository is organized according to the tutorials completed throughout the course:
+Here are the Java programming exercises that you have done during the Object-Oriented Programming course. The tutorials introduce basic concepts of Java programming and then gradually present the Object Oriented Programming (OOP) concepts, programming techniques and problem solving skills.
 
+This repository is intended to be a means to organize and document the source code and supporting files created throughout Tutorials/Weeks 1-10, and to showcase my learning of java programming and understanding of object oriented programming throughout the semester.
+
+⸻
+
+🗂️ Repository Structure
 othman-abdalrahim-H-A-202501010595/
 │
 ├── README.md
@@ -30,14 +26,12 @@ othman-abdalrahim-H-A-202501010595/
 │
 ├── tutorial_1/
 ├── tutorial_2/
-├── tutorial_3-4/
+├── tutorial_3/
 ├── tutorial_5/
 ├── tutorial_6/
 ├── tutorial_7/
 ├── tutorial_8-9/
 └── tutorial_10/
-
-Each tutorial folder contains the Java source code and supporting files related to the corresponding tutorial activities.
 
 ⸻
 
