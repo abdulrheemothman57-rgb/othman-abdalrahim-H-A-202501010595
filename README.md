@@ -8,7 +8,6 @@ University	City University Malaysia, Cyberjaya Campus
 Assignment	Assignment 1 – Individual
 
 
-⸻
 
 📖 Course Description
 
@@ -21,17 +20,42 @@ This repository is intended to be a means to organize and document the source co
 🗂️ Repository Structure
 othman-abdalrahim-H-A-202501010595/
 │
-├── README.md
-├── myreport.pdf
-│
 ├── tutorial_1/
+│   ├── Student.java
+│   └── main.java
+│
 ├── tutorial_2/
+│   ├── Student.java
+│   └── main.java
+│
 ├── tutorial_3/
+│   ├── Person.java
+│   ├── Student.java
+│   ├── Lecturer.java
+│   └── Main.java
+│
 ├── tutorial_5/
+│   ├── Student.java
+│   ├── main.java
+│
 ├── tutorial_6/
+│   ├── employee.java
+│   ├── lecturer.java
+│   └── main.java
+│
 ├── tutorial_7/
-├── tutorial_8-9/
-└── tutorial_10/
+│   ├── Applience.java
+│   ├── Microwave.java
+│   ├── WashingMachine.java
+│   └── Main.java
+│
+├── tutolrial_10/
+│   ├── Questions.java
+│   └── QuizBattleGUI.java
+│
+├── .gitignore
+├── LICENSE
+└── README.md
 
 ⸻
 
