@@ -22,7 +22,7 @@ class Student {
 
     //Another Methods 
     public void study () {
-        System.out.println(name + " is studying BCSSE. ");
+        System.out.println(name + " is studying BIT. ");
     }
 
     // Yet Another Methods 
