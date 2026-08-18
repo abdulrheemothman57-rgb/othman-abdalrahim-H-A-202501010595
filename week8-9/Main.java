@@ -1,32 +1,28 @@
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.io.*;
 
 public class Main {
 
     public static void main(String[] args) {
-
-        Scanner sc = new Scanner(System.in);
         ArrayList<String> tasks = new ArrayList<>();
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("===== ADD TASKS =====");
-
+        // Allow user to enter 3 tasks
         for (int i = 1; i <= 3; i++) {
-
             System.out.print("Enter Task " + i + ": ");
-
-            String task = sc.nextLine();
-
+            String task = scanner.nextLine();
             tasks.add(task);
         }
 
+        // Display tasks
         System.out.println("\n===== TASK LIST =====");
-
         for (int i = 0; i < tasks.size(); i++) {
             System.out.println((i + 1) + ". " + tasks.get(i));
         }
 
-        // Saving the task to a text file
+        // Saving the tasks to a text file
         try (BufferedWriter writer =
                 new BufferedWriter(new FileWriter("task.txt"))) {
 

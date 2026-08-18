@@ -1,4 +1,4 @@
-public class mainjava {
+public class main {
     public static void mainjava(String[] arges) {
         // coding starts here;
 
