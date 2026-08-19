@@ -1,5 +1,17 @@
 # othman-abdalrahim-H-A-202501010595
 
+Student Name:	Othman Abdalrahim H A
+
+Student ID:	202501010595
+
+Course:	BIT1123 – Object-Oriented Programming
+
+Institution	City: University Malaysia
+
+Campus:	Cyberjaya Campus
+
+Assignment:	Assignment 1 – Individual
+
 # Java Object-Oriented Programming Tutorials
 
 This is a set of Java programming tutorials and exercises created for my Object-Oriented Programming (OOP) coursework.
@@ -7,7 +19,7 @@ This is a set of Java programming tutorials and exercises created for my Object-
 This repository has several Java exercises related to the basic concepts of programming like class, object, constructor, method, inheritance, and GUI development.
 ---
 
-## 📚 Contents
+## Contents
 
 There are separate folders for each tutorial, and each tutorial concentrates on a particular java programming concept.
 
@@ -24,11 +36,13 @@ There are separate folders for each tutorial, and each tutorial concentrates on 
 
 ---
 
-## 🗂️ Project Structure
+## Repository Structure 
 
 ```text
-TARIG_ELSHAFIE_MUDAWI_202504010014_OB/
-│
+othman-abdalrahim-H-A-202501010595/
+├── README.md
+├── Report.pdf
+|
 ├── tutorial_1/
 │   ├── Student.java
 │   └── main.java
@@ -66,17 +80,14 @@ TARIG_ELSHAFIE_MUDAWI_202504010014_OB/
 ├── tutolrial_10/
 │   ├── Questions.java
 │   └── QuizBattleGUI.java
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+
 ```
 
 > Note: The folder name tutolrial_10 was left as it was in the original repository.
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **Java**
 * Object-Oriented Programming (OOP)
@@ -90,7 +101,7 @@ TARIG_ELSHAFIE_MUDAWI_202504010014_OB/
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 ### 1. Classes and Objects
 
@@ -201,7 +212,7 @@ The project demonstrates how Java can be used to create a graphical user interfa
 
 ---
 
-## 🚀 How to Run
+## How to Run the Projects 
 
 ### Requirements
 
@@ -243,7 +254,7 @@ The exact command may vary depending on the class name and the Java environment 
 
 ---
 
-## 📖 Learning Objectives
+## Learning Objectives
 
 This repository is used for the practice and demonstration of basic programming concepts of Java and Object Oriented Programming.
 
@@ -263,17 +274,8 @@ Constructing a GUI, very basic, in Java.
 
 ---
 
-## 👨‍💻 Author
 
-**Othman Abdalrahim H A**
-
-Student ID: `202501010595`
-
-This repository contains coursework and practical exercises developed during my Java Object-Oriented Programming studies.
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -281,7 +283,7 @@ See the [`LICENSE`](LICENSE) file for more information.
 
 ---
 
-## 🔗 Repository
+## Repository
 
 The complete source code is available on GitHub:
 
