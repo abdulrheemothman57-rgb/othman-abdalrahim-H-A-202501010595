@@ -1,16 +1,15 @@
-# TARIG_ELSHAFIE_MUDAWI_202504010014_OB
+# othman-abdalrahim-H-A-202501010595
 
 # Java Object-Oriented Programming Tutorials
 
-A collection of Java programming tutorials and practical exercises developed as part of my **Object-Oriented Programming (OOP)** coursework.
+This is a set of Java programming tutorials and exercises created for my Object-Oriented Programming (OOP) coursework.
 
-This repository contains several Java exercises covering fundamental programming concepts such as classes, objects, constructors, methods, inheritance, and GUI development.
-
+This repository has several Java exercises related to the basic concepts of programming like class, object, constructor, method, inheritance, and GUI development.
 ---
 
 ## 📚 Contents
 
-The repository is organized into separate tutorial folders, with each tutorial focusing on different Java programming concepts.
+There are separate folders for each tutorial, and each tutorial concentrates on a particular java programming concept.
 
 | Tutorial       | Main Content                                            |
 | -------------- | ------------------------------------------------------- |
@@ -20,6 +19,7 @@ The repository is organized into separate tutorial folders, with each tutorial f
 | `tutorial_5`   | Object-oriented programming practice and documentation  |
 | `tutorial_6`   | Inheritance using employee and lecturer classes         |
 | `tutorial_7`   | Abstract classes / inheritance using appliances         |
+| `tutorial_8-9` | Practical tutorial work included in the repository      |
 | `tutolrial_10` | Java GUI quiz application                               |
 
 ---
@@ -59,6 +59,10 @@ TARIG_ELSHAFIE_MUDAWI_202504010014_OB/
 │   ├── WashingMachine.java
 │   └── Main.java
 │
+├── tutorial_8-9/
+│   ├── task.txt
+│   └── main.java
+|
 ├── tutolrial_10/
 │   ├── Questions.java
 │   └── QuizBattleGUI.java
@@ -68,7 +72,7 @@ TARIG_ELSHAFIE_MUDAWI_202504010014_OB/
 └── README.md
 ```
 
-> **Note:** The folder `tutolrial_10` intentionally retains the spelling used in the original repository.
+> Note: The folder name tutolrial_10 was left as it was in the original repository.
 
 ---
 
@@ -101,7 +105,7 @@ For example, `tutorial_1` contains a `Student` class with attributes such as:
 It also includes methods for displaying student information and performing actions such as studying and taking an exam.
 
 ```java
-Student s1 = new Student("tariq", 20, 3.8);
+Student s1 = new Student("Abdalrahim", 19, 3.6);
 
 s1.displayInfo();
 s1.study();
@@ -211,13 +215,13 @@ You can also compile and run the programs directly from the command line.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/tariqelshafie/TARIG_ELSHAFIE_MUDAWI_202504010014_OB.git
+git clone https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd TARIG_ELSHAFIE_MUDAWI_202504010014_OB
+cd othman-abdalrahim-H-A-202501010595
 ```
 
 ### Compile a Tutorial
@@ -241,29 +245,29 @@ The exact command may vary depending on the class name and the Java environment 
 
 ## 📖 Learning Objectives
 
-The purpose of this repository is to practice and demonstrate fundamental Java and Object-Oriented Programming concepts.
+This repository is used for the practice and demonstration of basic programming concepts of Java and Object Oriented Programming.
 
-Through these exercises, I worked with:
+I worked with the following exercises through this:
 
 * Creating Java classes
-* Creating and using objects
+Making and manipulating objects
 * Defining attributes
 * Creating constructors
 * Creating methods
-* Passing values to objects
+Implicitly passing values to objects
 * Using inheritance
-* Designing parent and child classes
+Write Parent and Child classes.
 * Applying OOP principles
-* Building a simple Java GUI
-* Organizing Java projects using Git and GitHub
+Constructing a GUI, very basic, in Java.
+- Using Git and GitHub for organizing Java Projects
 
 ---
 
 ## 👨‍💻 Author
 
-**Tariq Elshafie Mudawi**
+**Othman Abdalrahim H A**
 
-Student ID: `202504010014`
+Student ID: `202501010595`
 
 This repository contains coursework and practical exercises developed during my Java Object-Oriented Programming studies.
 
@@ -281,4 +285,4 @@ See the [`LICENSE`](LICENSE) file for more information.
 
 The complete source code is available on GitHub:
 
-[**TARIG_ELSHAFIE_MUDAWI_202504010014_OB**](https://github.com/tariqelshafie/TARIG_ELSHAFIE_MUDAWI_202504010014_OB)
+[**othman-abdalrahim-H-A-202501010595**](https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595))
