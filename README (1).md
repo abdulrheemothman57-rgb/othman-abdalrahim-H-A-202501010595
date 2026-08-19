@@ -285,4 +285,4 @@ See the [`LICENSE`](LICENSE) file for more information.
 
 The complete source code is available on GitHub:
 
-[**othman-abdalrahim-H-A-202501010595**](https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595))
+[**othman-abdalrahim-H-A-202501010595**](https://github.com/abdulrheemothman57-rgb/othman-abdalrahim-H-A-202501010595)
